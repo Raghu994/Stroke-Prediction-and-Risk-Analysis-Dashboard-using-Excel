@@ -23,6 +23,6 @@ This project demonstrates the entire data analysis workflow:
     * **Advanced Charts:** Treemaps, Histograms, Scatter Plots, Sparklines.
     * **Dashboarding:** Interactive Slicers for Gender and Smoking Status filtering.
 
-## 📂 Dataset features
+## Dataset features
 * **Features:** ID, Gender, Age, Hypertension, Heart Disease, Ever Married, Work Type, Residence Type, Avg Glucose Level, BMI, Smoking Status, Stroke.
 
